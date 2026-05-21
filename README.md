@@ -1,4 +1,3 @@
-```markdown
 # ATP Tennis Match Predictor 🎾
 
 A machine learning project that predicts the outcomes of professional ATP tennis matches using a Random Forest Classifier. The model is trained on match data from 2022–2024 and features a custom data pipeline to prevent data leakage and calculate surface-specific performance metrics.
@@ -31,8 +30,9 @@ The model goes beyond standard stats to calculate elite performance indicators:
 ## How to Run Locally
 
 1. Clone the repository:
+
 ```bash
-git clone [https://github.com/RayanMohammed/atp-tennis-predictor.git](https://github.com/RayanMohammed/atp-tennis-predictor.git)
+git clone https://github.com/RayanMohammed/atp-tennis-predictor.git
 cd atp-tennis-predictor
 
 ```
